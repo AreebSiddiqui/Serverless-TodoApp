@@ -6,3 +6,4 @@ This app is todo with front end written in react and backend in typescript, the 
 ## Tech Stack 
 AWS | Serverless Framework | DynamoDB | S3 | AWS Lambda | OAuth | Cloudformation
 
+![Screenshot](images/aws1.png)
