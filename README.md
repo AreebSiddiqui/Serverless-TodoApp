@@ -21,7 +21,7 @@ AWS | Serverless Framework | DynamoDB | S3 | AWS Lambda | OAuth | Cloudformation
 ![Screenshot](images/aws3.png)
 
 ## Deployed Serverless 
-![Screenshot](images/aws-4.png)
+![Screenshot](images/aws4.png)
 
 ## OAuth-Google
 ![Screenshot](images/Google-auth.png)
