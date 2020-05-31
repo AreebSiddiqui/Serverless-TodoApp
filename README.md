@@ -1,4 +1,4 @@
-# Serverless TODO
+# Serverless Todo
 
 This is a project from Cloud developer Nano Degree Udacity.
 This app is todo with front end written in react and backend in typescript, the app is deployed on aws using Aws lambda and serverless framework.
@@ -6,7 +6,7 @@ This app is todo with front end written in react and backend in typescript, the 
 ## Tech Stack 
 AWS | Serverless Framework | DynamoDB | S3 | AWS Lambda | OAuth | Cloudformation
 
-## Screenshots
+## SCREENSHOTS
 
 ## Application Screen Shot
 ![Screenshot](images/loclahost.png)
