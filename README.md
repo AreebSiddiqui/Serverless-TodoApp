@@ -15,7 +15,7 @@ AWS | Serverless Framework | DynamoDB | S3 | AWS Lambda | OAuth | Cloudformation
 ## S3 Bucket
 ![Screenshot](images/aws2.png)
 
-## DynamoDB table
+## DynamoDB Table
 ![Screenshot](images/aws3.png)
 
 ## Deployed Serverless 
