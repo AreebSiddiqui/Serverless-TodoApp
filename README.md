@@ -9,7 +9,7 @@ AWS | Serverless Framework | DynamoDB | S3 | AWS Lambda | OAuth | Cloudformation
 ## SCREENSHOTS
 
 ## Application Screen Shot
-![Screenshot](images/loclahost.png)
+![Screenshot](images/localhost.png)
 
 ## AWS Lambda Handler
 ![Screenshot](images/aws1.png)
